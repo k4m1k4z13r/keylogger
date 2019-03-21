@@ -11,4 +11,5 @@ nohup python3 keylogger.py -- runs script in background, even after the terminal
 # Send data over netcat
 
 See "./transfer.png"
-NO, you won't any metadata in that picture. exiftool -all= "./transfer.png" did the magic.
+NO, you won't any metadata in that picture
+exiftool -all= "./transfer.png" did the magic.
