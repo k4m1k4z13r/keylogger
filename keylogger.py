@@ -1,4 +1,4 @@
-#k4m1k4z13r wuz here
+#!/usr/bin/env python3
 from pynput.keyboard import Key, Listener
 
 def _pressed(key): #when a key is pressed
