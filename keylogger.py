@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+__author__ = "Shreyansh Singh aka k4m1k4z13r"
+__copyright__ = "Copy what you can"
 from pynput.keyboard import Key, Listener
 
 def _pressed(key): #when a key is pressed
