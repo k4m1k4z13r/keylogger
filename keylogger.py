@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-__author__ = "Shreyansh Singh aka k4m1k4z13r"
+__author__ = "Shreyansh Singh a.k.a k4m1k4z13r"
 __copyright__ = "Copy what you can"
 from pynput.keyboard import Key, Listener
 
